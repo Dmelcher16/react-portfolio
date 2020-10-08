@@ -2,10 +2,6 @@ import React from "react";
 
 
 function PrjCard(props) {
-    // const unNum = Math.floor(Math.random() * 100);
-    // const unNum2 = uuidv4();
-    // console.log(unNum)
-    // console.log(unNum2);
 
     return (
            

@@ -1,5 +1,4 @@
 import React from "react";
-// import jfarrish from "../img/JFarrish.jpg"
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Container from 'react-bootstrap/Container';
 import "./styles/home_styles.css";
