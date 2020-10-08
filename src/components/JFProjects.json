@@ -1,0 +1,45 @@
+[
+    {
+        "id" : "0",
+        "prj": "Visual Brainstorm",
+        "PrjLink": "https://farrishworks.com",
+        "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/VBS.png",
+        "desc": "Visual Brainstorm is a program I made in C++ using the Qt Framework. I don't expect to use C++ much as a Web Developer but I'm proud of this and I want to communicate that I've been studying programming for some time now. Visual Brainstorm is a good project that displays my understanding of Object Oriented programming and my will to build."
+    },
+    {
+        "id": "1",
+        "prj": "Quiz Template",
+        "PrjLink": "https://joejoe909.github.io/TimedQuiz/",
+        "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/QzTmp.png",
+        "desc": "I'm always amazed at how colorful Web Development is. This quiz template provides the groundwork for construction of a testing system."
+    },
+    {
+        "id": "2",
+        "prj": "Portfolio Template",
+        "PrjLink": "https://joejoe909.github.io/ResponsivePortfolio/index.html",
+        "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/portfolioTemplate.png",
+        "desc": "This is another template project which consists of HTML,CSS and utilizes the Bootstrap CSS library. As a developer I like making reusable components which is why I like making templates."
+     },
+    {
+        "id": "3",
+        "prj": "Ez Geo-Tracker",
+        "PrjLink": "https://joejoe909.github.io/Ez-Geo-Tracker/",
+        "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/EGT.jpg",
+        "desc": "This is a colaboration project I did with 3 other individuals. My role was to implement the HERE API to provide interactive maps to the page.This was done via the HERE Javascript library. I'm quite proud of they way we all came togeather in this project."
+    },
+    {
+        "id": "4",
+        "prj": "Weather Dashboard",
+        "PrjLink": "https://joejoe909.github.io/Weather-Dashboard/",
+        "ImgLink": "https://joejoe909.github.io/JFPortfolio/img/wdb.jpg",
+        "desc": "This is a project that implements the Open Weather API. A lot of fun stuff going on with HTML,Javascript, JQuery and Bootstrap."
+    },
+    {
+        "id": "5",
+        "prj": "Progressive Budget Tracker",
+        "PrjLink": "https://peaceful-dusk-63294.herokuapp.com/",
+        "ImgLink": "https://github.com/joejoe909/PWA-Online-Offline-Budget-Trackers/raw/master/img/pwa.png",
+        "desc": "This is a project that implements the Open Weather API. A lot of fun stuff going on with HTML,Javascript, JQuery and Bootstrap."
+    }
+
+]

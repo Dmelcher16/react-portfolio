@@ -1,0 +1,27 @@
+html{
+    background-color: darkgray;
+}
+
+.nav-link{
+    background-color: #383838;
+    color: white;
+    border: 5px solid black;
+    border-radius: 9px 9px 0px 0px;
+}
+
+
+.nav-item{
+    background-color: #1d1d1d;
+    color: white;
+    border: 1px solid black;
+    border-radius: 9px 9px 0px 0px;
+}
+
+.nav-tabs{
+    margin-bottom: 1px;
+}
+
+.setRight{
+   position: absolute;
+   right:20%;
+}
