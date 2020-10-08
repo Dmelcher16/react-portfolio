@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Index from './src/index';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-
-export default Index
+ReactDOM.render(<Index />, document.getElementById('root'));
