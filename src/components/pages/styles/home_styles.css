@@ -1,0 +1,45 @@
+
+body
+{
+    background-color: #262626;
+}
+
+/*floats the image*/
+.floatImgLeft
+{
+ float: left;   
+ margin-right: 15px; 
+ size:parent;
+}
+
+#addDarkGrey{
+    background-color: darkgray;
+}
+
+
+footer 
+{
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color:#262626;
+ }
+/*padds upper left label in navbar*/
+.textPadding
+{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.myAdj{
+    background-color: #262626;
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+#addShadow{
+   
+box-shadow: 2px -2px 5px 1px rgba(0,0,0,0.67);
+}

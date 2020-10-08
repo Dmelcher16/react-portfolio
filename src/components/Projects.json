@@ -1,0 +1,25 @@
+[
+    {
+        "id": "0",
+        "prj": "Magic the Gabbering",
+        "PrjLink": "https://magic-the-gabbering.herokuapp.com/",
+        "ImgLink": "",
+        "desc": "Checkout this group project! We made an app revolving around a popular card game where people can post about their favorite cards. They can also recieve comments on their posts."
+    },
+    {
+        "id": "1",
+        "prj": "day-scheduler",
+        "PrjLink": "https://dmelcher16.github.io/day-scheduler/",
+        "ImgLink": "",
+        "desc": "Checkout this planner that can help you keep your day organized. It will allow you to add events at specific times and show you which times have already passed."
+    },
+    {
+        "id": "2",
+        "prj": "Ez Geo-Tracker",
+        "PrjLink": "https://dmelcher16.github.io/EZ-geo-tracker/",
+        "ImgLink": "",
+        "desc": "This is an app that loads a couple of interactive maps. One that shows NASA satellite images based on a chosen location and also a google maps style image for the same location. This is done through the use of the NASA image API and the HERE API."
+    }
+    
+
+]
